@@ -1,2 +1,3 @@
-const h = document.querySelector('h1')
-console.log(h)
+import '../styles/style.scss'
+
+
